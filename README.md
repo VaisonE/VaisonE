@@ -1,6 +1,9 @@
 Header 
 
-About me
+## I`m junior software engineer from Russia
 
-Tools
+### Tools
+![C++](https://img.shields.io/badge/-C++-090909)
+
+
 
