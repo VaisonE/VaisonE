@@ -1,6 +1,6 @@
 <h2 align="center">Hello, I'm VaisonE!</h2>
 
-<h2 align="center">my profile stats on github</h2>
+# my profile stats on github
 
 <p align="center">
   <br>
@@ -9,7 +9,7 @@
     </a>
 </p><br>
 
-<h2 align="center">my tools</h2>
+# my tools
 
 <p align="center">
   <br>
