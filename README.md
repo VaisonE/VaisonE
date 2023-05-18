@@ -1,6 +1,6 @@
+<h2 align="center">Hello, I'm VaisonE!</h2>
 
-
-<h2 align="center">my profile stats on github.</h2>
+<h2 align="center">my profile stats on github</h2>
 
 <p align="center">
   <br>
@@ -14,7 +14,7 @@
 <p align="center">
   <br>
     <a href="https://github.com/VaisonE/VaisonE">
-        <img title="top languages" alt="VaisonE's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaisonE&theme=transparent"/>
+        <img title="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaisonE&theme=transparent"/>
     </a>
 </p><br>
 
