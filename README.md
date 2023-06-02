@@ -12,7 +12,7 @@
 <p align="center">
   <br>
     <a href="https://github.com/VaisonE/VaisonE">
-        <img title="top languages" alt="VaisonE's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaisonE&theme=transparent"/>
+        <img title="top languages" alt="VaisonE's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaisone&theme=transparent&langs_count=4&layout=compact&hide=java"
     </a>
 </p><br>
 
